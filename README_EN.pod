@@ -2,7 +2,7 @@
 
 =head1 VK phone nambers parser
 
-Script based on Perl language which collect mobile numbers of ukranian operators from vk.com social network.
+Script based on Perl language which collect mobile numbers of ukraine operators from vk.com social network.
 
 =head2 Features
 
