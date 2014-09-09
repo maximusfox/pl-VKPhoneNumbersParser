@@ -25,6 +25,7 @@ usage: start.pl [OPTIONS...]
 =head2 Установка зависимостей
 
 Установка модулей
+
     # cpanm --installdeps .
 
 Установка ПО
