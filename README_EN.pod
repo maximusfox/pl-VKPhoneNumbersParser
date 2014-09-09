@@ -6,10 +6,10 @@ Script based on Perl language which collect mobile numbers of ukranian operators
 
 =head2 Features
 
-	[*] Mobile broadcaster Definition (Utel, PeopleNET, Intertelecom, MTS, Life, KievStar)
-	[*] Не проверяет страницы пользователей номера которых уже были собраны
-	[*] Асинхронные запросы к сайту использую Coro вместо форков или потоков
-	[*] Для сокращения трафика используется предварительная проверка на наличие номера через API
+	[*] Call service provider detection (Utel, PeopleNET, Intertelecom, MTS, Life, KievStar)
+	[*] Doesn't check already checked pages
+	[*] Asynchronous site requests using Coro instead of its forks or threads
+	[*] Number check by API used to save bandwidth
 
 =head2 Help
 
