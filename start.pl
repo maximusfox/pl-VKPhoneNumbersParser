@@ -31,6 +31,7 @@ our $ATCcodes = {
 	98 => 'KievStar',
 	93 => 'Life',
 	63 => 'Life',
+	73 => 'Life',
 };
 
 opt first => (
